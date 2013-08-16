@@ -1,5 +1,7 @@
 <?php
 
+echo "hello beijing";
+
 $a = 1;
 var_dump($a?$a:false);
 

@@ -1,6 +1,6 @@
 <?php
 
-echo "hello beijing";
+echo "hello beijing1";
 
 echo "hello beijing2";
 echo "hello beijing3";

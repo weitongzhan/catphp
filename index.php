@@ -1,5 +1,11 @@
 <?php
 
+echo "hello beijing";
+
+echo "hello beijing2";
+echo "hello beijing3";
+echo "hello beijing4";
+
 $a = 1;
 var_dump($a?$a:false);
 
